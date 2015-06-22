@@ -8,7 +8,7 @@ Begin VB.Form closedownExam
    LinkTopic       =   "Form1"
    ScaleHeight     =   3180
    ScaleWidth      =   8130
-   StartUpPosition =   3  'Windows 기본값
+   StartUpPosition =   2  '화면 가운데
    Begin VB.CommandButton btnUnitCost 
       Caption         =   "조회단가 확인"
       Height          =   400
