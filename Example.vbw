@@ -3,4 +3,4 @@ Linkhub = 0, 0, 0, 0, C
 LinkhubToken = 0, 0, 0, 0, C
 Closedown = 22, 29, 1349, 647, 
 CorpSTate = 0, 0, 0, 0, C
-closedonwExam = 0, 0, 0, 0, C, 66, 87, 1331, 705, C
+closedownExam = 0, 0, 0, 0, C, 66, 87, 1331, 705, C

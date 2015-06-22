@@ -1,5 +1,5 @@
 VERSION 5.00
-Begin VB.Form closedonwExam 
+Begin VB.Form closedownExam 
    Caption         =   "ÈÞÆó¾÷Á¶È¸ API SDK Example for VB6"
    ClientHeight    =   3180
    ClientLeft      =   60
@@ -94,7 +94,7 @@ Begin VB.Form closedonwExam
       End
    End
 End
-Attribute VB_Name = "closedonwExam"
+Attribute VB_Name = "closedownExam"
 Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
