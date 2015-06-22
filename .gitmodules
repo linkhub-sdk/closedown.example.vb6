@@ -1,0 +1,6 @@
+[submodule "Linkhub"]
+	path = Linkhub
+	url = https://github.com/linkhub-sdk/linkhub.auth.vb6.git
+[submodule "Closedown"]
+	path = Closedown
+	url = https://github.com/linkhub-sdk/closedown.sdk.vb6.git
